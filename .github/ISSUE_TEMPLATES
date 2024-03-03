@@ -1,0 +1,13 @@
+**As a** an account manager.
+**I need** a reliable account microservice to manage customer accounts on our e-commerce website.
+**So that**  I can keep tracking the customers on my e-commerce website efficiently.
+      
+### Details and Assumptions
+    * The account microservice should allow for the read, creation, updating, and deletion of customer accounts and list them.  
+    * It should integrate with other microservices in the e-commerce system, such as the inventory.
+
+### Acceptance Criteria     
+    gherkin 
+    Given a new customer registers on the website.
+    When the customer fills in their account details.
+    Then a new account should be created in the account microservice.

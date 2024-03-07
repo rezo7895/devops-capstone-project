@@ -5,6 +5,8 @@
 
 This repository contains the starter code for the project in [**IBM-CD0285EN-SkillsNetwork DevOps Capstone Project**](https://www.coursera.org/learn/devops-capstone-project?specialization=devops-and-software-engineering) which is part of the [**IBM DevOps and Software Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
 
+![Build Status](https://github.com/rezo7895/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 ## Usage
 
 You should use this template to start your DevOps Capstone project. It contains all of the code that you will need to get started.
@@ -93,6 +95,7 @@ The Account model contains the following fields:
 ## Your Task
 
 Complete this microservice by implementing REST API's for `READ`, `UPDATE`, `DELETE`, and `LIST` while maintaining **95%** code coverage. In true **Test Driven Development** fashion, first write tests for the code you "wish you had", and then write the code to make them pass.
+
 
 ## Local Kubernetes Development
 
